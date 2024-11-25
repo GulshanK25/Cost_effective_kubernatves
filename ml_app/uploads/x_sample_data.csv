@@ -1,0 +1,3 @@
+Resource Usage (GB),Scalability Index,Reliability Score,Cloud Provider_AWS,Cloud Provider_Azure,Cloud Provider_GCP,Flexibility Level_High,Flexibility Level_Low,Flexibility Level_Medium,Compliance Status_Compliant,Compliance Status_Non-compliant,Resource Type_Containers,Resource Type_VMs
+7,87.51577643940537,2,False,True,False,True,False,False,False,True,True,False
+18,52.22512520066485,2,False,False,True,False,True,False,True,False,False,True
